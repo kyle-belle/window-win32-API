@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1523311596 source:c:\users\stuppzzzz\desktop\windows version\resources.rc
+	"resources.h"
+
+1523308619 c:\users\stuppzzzz\desktop\windows version\resources.h
+
+1523312381 source:c:\users\stuppzzzz\desktop\windows version\untitled1.cpp
+	<windows.h>
+	<stdio.h>
+	<commctrl.h>
+	"resources.h"
+
+1523311596 source:c:\users\stuppzzzz\documents\windows version\resources.rc
+	"resources.h"
+
+1523308619 c:\users\stuppzzzz\documents\windows version\resources.h
+
+1532571598 source:c:\users\stuppzzzz\documents\windows version\untitled1.cpp
+	<windows.h>
+	<stdio.h>
+	<commctrl.h>
+	"resources.h"
+

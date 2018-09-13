@@ -1,0 +1,6 @@
+#include "resources.h"
+MAIN ICON "grand-resort-hotel_131677837419272956(1).ico"
+IDI_ICON2 ICON "grand-resort-hotel_131677837419272956(1).ico"
+IDI_ICON ICON "r.ico"
+
+CREATEPROCESS_MANIFEST_RESOURCE_ID man "ll.exe.manifest"

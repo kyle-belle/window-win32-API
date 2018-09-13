@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1522996843 source:c:\users\stuppzzzz\desktop\ll\untitled1.c
+	<windows.h>
+
+1523166203 source:c:\users\stuppzzzz\desktop\windows\untitled1.c
+	<windows.h>
+	<commctrl.h>
+	"resources.h"
+
+1523141447 source:c:\users\stuppzzzz\desktop\windows\resources.rc
+	"resources.h"
+
+1523127410 c:\users\stuppzzzz\desktop\windows\resources.h
+
+1523311596 source:c:\users\stuppzzzz\desktop\windows version\resources.rc
+	"resources.h"
+
+1523308619 c:\users\stuppzzzz\desktop\windows version\resources.h
+
+1523240031 source:c:\users\stuppzzzz\desktop\windows version\untitled1.c
+	<windows.h>
+	<stdio.h>
+	<commctrl.h>
+	"resources.h"
+
+1523311671 source:c:\users\stuppzzzz\desktop\windows version\untitled1.cpp
+	<windows.h>
+	<stdio.h>
+	<commctrl.h>
+	"resources.h"
+
+1523242581 c:\users\stuppzzzz\desktop\windows version\fuck_conio.h
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<windef.h>
+	<winbase.h>
+	<wincon.h>
+	"myconio.cpp"
+
+1521904058 c:\users\stuppzzzz\desktop\windows version\myconio.cpp
+
